@@ -20,7 +20,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DieuOurs" alt="Github Stats"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieuOurs&layout=compact&theme=vision-friendly-dark">
 </div>
-<h1>Language i know</h1>
+<h1>What i know ?</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
